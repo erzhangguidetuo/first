@@ -24,3 +24,6 @@ venv/
 *.tmp
 .env
 .env.local
+
+# --- WorkBuddy 会话数据 ---
+.workbuddy/
